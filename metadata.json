@@ -1,0 +1,5 @@
+{
+  "name": "WP Theme Architect AI",
+  "description": "Uma aplicação React com inteligência artificial para gerar, visualizar e exportar temas completos para WordPress baseados em prompts de texto e controles visuais.",
+  "requestFramePermissions": []
+}
